@@ -1,7 +1,13 @@
-# Aplicativo 4SUP
-
+# Aplicativo 4SUP Teste
+ 
 ## Requisitos de acesso
 Usuário ativo no GesOper e cadastrado como **supervisor** de pelo menos um posto.
+
+<p align="center">
+  <img src="https://i.ibb.co/LdFPYtRq/tela-inicial-app.png" alt="Tela principal" width="400">
+</p>
+
+
 
 ## Módulos
 - **Rota**: início/fim; veículo e odômetro (ou veículo próprio). Pode iniciar rota ao fazer check-in.
