@@ -48,11 +48,22 @@ markdown_extensions:
       alternate_style: true
 plugins:
   - search
+  - glightbox:
+      touchNavigation: true
+      loop: false
+      effect: zoom
+      width: 100%
+      height: auto
+      zoomable: true
+      draggable: true
+
+
 nav:
   - Introdução: index.md
-  - Configuração:
+  - Configuração GesOper Corporate:
       - Habilitar o 4SUP: configuracao/habilitar.md
-      - Tabelas de Apoio: configuracao/tabelas.md
+      - Tabelas de Apoio: configuracao/configuracao-posto.md
+      - Configuração de Posto: configuracao/tabelas.md
   - Portal Web:
       - Agenda: portal/agenda.md
       - Painel & Mapa: portal/painel_mapa.md
