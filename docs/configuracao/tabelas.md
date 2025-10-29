@@ -183,17 +183,17 @@ Esses itens são configurados no GesOper Operacional, no menu Tabelas de Apoio �
 </p>
 
 <p>
-O campo Código de cada checklist deve ser único e decimal, funcionando como identificador principal dentro do sistema e garantindo que não haja duplicidades no cadastro
+O campo Código de cada checklist deve ser único e decimal, funcionando como identificador principal dentro do sistema e garantindo que não haja duplicidades no cadastro<br><br>
 
-A configuração 'Para' determina o grupo de fiscalização do qual esta checklist pertence. 
+A configuração 'Para' determina o grupo de fiscalização do qual esta checklist pertence. <br><br>
 
-O campo Descrição não precisa ser único, mas deve representar, de forma objetiva, a área de atuação ou o propósito da checklist. Esse é o texto exibido ao supervisor no aplicativo 4Sup, permitindo identificar facilmente o checklist correspondente à sua agenda.
+O campo Descrição não precisa ser único, mas deve representar, de forma objetiva, a área de atuação ou o propósito da checklist. Esse é o texto exibido ao supervisor no aplicativo 4Sup, permitindo identificar facilmente o checklist correspondente à sua agenda.<br><br>
 
-O campo Observação tem caráter descritivo e serve para orientar os gestores sobre o propósito de cada checklist dentro do sistema. Esse campo não é exibido no aplicativo 4Sup, sendo utilizado apenas como referência interna no GesOper, auxiliando na identificação e organização das checklists cadastradas.
+O campo Observação tem caráter descritivo e serve para orientar os gestores sobre o propósito de cada checklist dentro do sistema. Esse campo não é exibido no aplicativo 4Sup, sendo utilizado apenas como referência interna no GesOper, auxiliando na identificação e organização das checklists cadastradas.<br><br>
 
-Para incluir novos itens em uma checklist, clique no símbolo “*” localizado na linha em branco da coluna Código. Também é possível pressionar a tecla F4 para abrir a lista completa de itens disponíveis e selecionar aqueles que devem compor o checklist.
+Para incluir novos itens em uma checklist, clique no símbolo “*” localizado na linha em branco da coluna Código. Também é possível pressionar a tecla F4 para abrir a lista completa de itens disponíveis e selecionar aqueles que devem compor o checklist.<br><br>
 
-O botão Listar permite gerar um relatório completo de todos os checklists cadastrados no sistema, apresentando informações como código, descrição, observação e grupos de fiscalização vinculados.
+O botão Listar permite gerar um relatório completo de todos os checklists cadastrados no sistema, apresentando informações como código, descrição, observação e grupos de fiscalização vinculados.<br><br>
 
 Cada checklist é formado por um ou mais items de fiscalização, que reúnem os grupos relacionados a uma área específica do posto.<br><br>
 </p>
