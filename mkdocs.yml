@@ -70,7 +70,7 @@ nav:
       - Chat & Relatórios: portal/chat_relatorios.md
       - Configurações: portal/configuracoes.md
   - Aplicativo:
-      - Agendas: app/agendas.md
       - Visão geral: app/index.md
+      - Agendas: app/agendas.md
       - Motivo de parada: app/parada.md
       

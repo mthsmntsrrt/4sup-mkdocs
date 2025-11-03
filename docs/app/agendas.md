@@ -485,15 +485,8 @@ Essa integração garante que as demandas do cliente sejam acompanhadas de forma
 </p>
 
 ## Vagas:
-
-
 <p>
-
-A funcionalidade Vagas permite ao supervisor registrar informações relacionadas à movimentação de pessoal nos postos sob sua responsabilidade. Essa ferramenta é utilizada para comunicar à base operacional a necessidade de substituição, contratação ou preenchimento de vagas decorrentes de desligamentos, transferências ou ausências prolongadas.
-
-Durante a execução da agenda, o supervisor pode abrir um novo registro de vaga, informando o motivo da abertura, o cargo desejado e quaisquer observações pertinentes. Também é possível registrar o preenchimento de uma vaga, vinculando o colaborador aprovado por meio do módulo SelFun, quando disponível. Esses registros garantem que o setor de recursos humanos e a equipe administrativa tenham visibilidade imediata das demandas de pessoal originadas em campo.
-
-Todas as informações registradas na tela de vagas são automaticamente associadas ao posto supervisionado e transmitidas ao portal após o envio, permitindo o acompanhamento centralizado pela base. Essa integração assegura maior agilidade no processo de reposição de funcionários e contribui para a manutenção da regularidade operacional dos postos supervisionados.
-
+Essa ferramenta é utilizada para comunicar à base operacional a necessidade de substituição, contratação ou preenchimento de vagas decorrentes de desligamentos.
+Durante a execução da agenda, o supervisor pode abrir um novo registro de vaga, informando o motivo da abertura, o cargo desejado e quaisquer observações pertinentes. Também é possível registrar o preenchimento de uma vaga, vinculando o colaborador aprovado por meio do módulo SelFun.
 </p>
 
