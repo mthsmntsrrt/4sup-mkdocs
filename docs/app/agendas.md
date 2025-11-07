@@ -1,7 +1,8 @@
 # AGENDAS
 
 <p>
-O módulo Agendas no aplicativo 4SUP é o ponto central de trabalho do supervisor.
+O módulo Agendas no aplicativo 4SUP é o ponto central de trabalho do supervisor.<br><br>
+
 Ele exibe a lista das fiscalizações programadas e permite criar, iniciar, finalizar e justificar supervisões de campo diretamente pelo dispositivo móvel.
 As agendas são sincronizadas em tempo real com o Portal Web 4SUP, garantindo que qualquer atualização feita pelo supervisor ou pela base seja refletida automaticamente para ambos os lados.
 Além disso, a tela de agendas serve como ponto de partida para as principais ações operacionais, como a realização de check-in nos postos, a consulta de informações detalhadas da supervisão e o encerramento das atividades após o check-out.

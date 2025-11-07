@@ -1,11 +1,9 @@
-# Introdução ao 4SUP
-
-O **GesOper 4SUP** é um sistema para **supervisão on-line** com duas frentes:
-- **Portal Web 4SUP** (base operacional): agendas, painel, mapa, chat, relatórios e configurações.
-- **Aplicativo 4SUP** (campo): rota, check-in/out com validação de proximidade, checklists, ocorrências/SAC e paradas.
-
-> **Objetivo**: programar rotas inteligentes, registrar atividades em tempo real e acompanhar a operação de supervisão.
-
-!!! tip "Como navegar"
-    Use a barra lateral para acessar os tópicos. A busca (atalho **/**) encontra páginas e títulos rapidamente.
-
+<div class="hero">
+  <span class="badge">Manual Oficial</span>
+  <h1>4SUP — Operação de campo sem fricção</h1>
+  <p>Portal Web e Aplicativo para planejamento, execução e auditoria das rotas de fiscalização. Integração com GesOper Corporate.</p>
+  <div class="actions">
+    <a class="md-button md-button--primary" href="https://gesoper.terceirizemais.com.br/GesOper4Sup/web.acessar.aspx">Entrar no Portal Web</a>
+    <a class="md-button" href="app/">Ver o App</a>
+  </div>
+</div>
