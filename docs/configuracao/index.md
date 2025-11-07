@@ -12,7 +12,7 @@ Os motivos de parada determinam as razões pelas quais um supervisor pode regist
 -**Configuração no GesOper**
 <p>
 Para cadastrar ou editar os motivos disponíveis no aplicativo, acesse o GesOper Operacional e siga o caminho:
-Tabelas de Apoio → Fiscalização → Motivo de Parada
+Tabelas de Apoio → Fiscalização → Motivo de Parada.
 </p>
 
 
